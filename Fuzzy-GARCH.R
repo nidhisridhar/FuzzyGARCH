@@ -1,6 +1,6 @@
 # Read dataset from .csv file
-#DJA <- read.csv("C:\\Users\balaji\Desktop\DJA.csv")taset from .csv file
-DJA <- read.csv("C:\\Users\\balaji\\Desktop\\DJA.csv")
+
+DJA <- read.csv("DJA.csv")
 # import library tseries
 library("tseries", lib.loc="~/R/win-library/3.3")
 library("GA", lib.loc="~/R/win-library/3.3")
